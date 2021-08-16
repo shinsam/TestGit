@@ -8,6 +8,9 @@ public class Main  {
 		c.sayhello();
 		c.gotoSchool();
 		c.sayGoodBye();
+		
+		Phone_SamSung s = new Phone_SamSung();
+		s.displayCompany();
 	}
 
 }

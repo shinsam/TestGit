@@ -11,7 +11,7 @@ public class Cat implements Animals, School{
 	@Override
 	public void sayGoodBye() {
 		// TODO Auto-generated method stub
-		System.out.println("cat bye");
+		System.out.println("cat bye!");
 	}
 
 	@Override
